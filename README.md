@@ -1,4 +1,4 @@
-#Event Locator
+# Event Locator
 
 # User Story:
 As a user I want to be able to find events such as; concerts, festivals, and sporting events based on my current location whether I'm travelling or at home. It would also be beneficial to know the weather at the time of the scheduled event.
