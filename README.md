@@ -10,6 +10,8 @@ The event app will benefit me when I'm making plans on the fly, especially when 
     a. Allows upper and lowercase characters
     b. Allows alphanumeric characters (numbers)
     c. Does not allow special characters
+# Demo
+![pdfgif.ig](https://media.giphy.com/media/LqgbTG3mgMvp7z6c5v/giphy.gif)
 
 
 
