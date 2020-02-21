@@ -11,6 +11,6 @@ The event app will benefit me when I'm making plans on the fly, especially when 
     b. Allows alphanumeric characters (numbers)
     c. Does not allow special characters
 # Demo
-![pdfgif.ig](https://media.giphy.com/media/LqgbTG3mgMvp7z6c5v/source.gif)
+![pdfgif.ig](https://media.giphy.com/media/LqgbTG3mgMvp7z6c5v/giphy-downsized-large.gif)
 
 
